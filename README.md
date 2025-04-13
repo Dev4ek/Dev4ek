@@ -49,5 +49,5 @@
 ## 📫 Связаться со мной
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dev4ek)
-[![Gmail](https://img.shields.io/badge/-example@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dimadimatrif@gmail.com)
-![Dev4ek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev4ek&show_icons=true&theme=tokyonight)
+[![Gmail](https://img.shields.io/badge/-dimadimatrif@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dimadimatrif@gmail.com)
+
