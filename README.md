@@ -45,7 +45,6 @@
 ![Loki](https://img.shields.io/badge/-Loki-2F4858?style=flat-square&logo=grafana&logoColor=white)
 ![Promtail](https://img.shields.io/badge/-Promtail-00A6D6?style=flat-square&logo=grafana&logoColor=white)
 
----
 ## 📫 Связаться со мной
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dev4ek)
