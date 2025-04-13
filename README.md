@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7C700&center=true&lines=Python+Backend+Developer;FastAPI+Lover;Open+Source+Enthusiast;DevOps+Enjoyer" />
+</p>
+
 # 👋 Привет! Меня зовут **Dev4ek**
 
 🚀 Я **Python Backend-разработчик**, создаю масштабируемые API и эффективные backend-системы 🐍✨.
@@ -30,6 +34,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
+
 ### DevOps & CI/CD
 
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
@@ -39,3 +44,10 @@
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Loki](https://img.shields.io/badge/-Loki-2F4858?style=flat-square&logo=grafana&logoColor=white)
 ![Promtail](https://img.shields.io/badge/-Promtail-00A6D6?style=flat-square&logo=grafana&logoColor=white)
+
+---
+## 📫 Связаться со мной
+
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dev4ek)
+[![Gmail](https://img.shields.io/badge/-example@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dimadimatrif@gmail.com)
+![Dev4ek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev4ek&show_icons=true&theme=tokyonight)
